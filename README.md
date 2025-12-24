@@ -1,5 +1,4 @@
 <img width="1536" height="1024" alt="ChatGPT Image Dec 24, 2025, 08_40_50 PM" src="https://github.com/user-attachments/assets/72b18ec6-e8d5-45f8-8eef-fade122d819d" />
-![Uploading ChatGPT Image Dec 24, 2025, 08_40_50 PM.png…]()
 """
 <p align="center">
   <img src="https://img.shields.io/badge/Bank%20Marketing%20Term%20Deposit%20Prediction-ML%20Project-blue?style=for-the-badge&logo=python&logoColor=white" />
